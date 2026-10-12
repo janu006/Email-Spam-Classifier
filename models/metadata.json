@@ -1,0 +1,11 @@
+{
+  "best_model": "Support Vector Machine",
+  "rows_used": 5158,
+  "train_rows": 4126,
+  "test_rows": 1032,
+  "labels": [
+    "ham",
+    "spam"
+  ],
+  "dataset": "spam.csv"
+}
